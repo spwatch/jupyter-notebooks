@@ -6,4 +6,4 @@ This repository contains a selection of Jupyter Notebooks from a variety of my d
 
 [TITANS: High-Dimensional Trajectory Inference to Infer Stem Cell Dynamics](https://nbviewer.jupyter.org/github/spwatch/jupyter-notebooks/blob/master/titans_090719.ipynb)
 
-[NLP-iarmus: Which Harry Potter Character is the most positive?](https://nbviewer.jupyter.org/github/spwatch/jupyter-notebooks/blob/master/NLP_harry_potter_23019_v1.ipynb)
+[NLP-iarmus: Which Harry Potter Character is the most positive?](https://nbviewer.jupyter.org/github/spwatch/jupyter-notebooks/blob/master/NLP_harry_potter_230719_v1.ipynb)
